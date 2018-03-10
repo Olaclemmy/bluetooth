@@ -40,16 +40,18 @@
             // 
             // username
             // 
+            this.username.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.username.Location = new System.Drawing.Point(134, 192);
             this.username.Name = "username";
-            this.username.Size = new System.Drawing.Size(116, 20);
+            this.username.Size = new System.Drawing.Size(132, 25);
             this.username.TabIndex = 0;
             // 
             // password
             // 
+            this.password.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.password.Location = new System.Drawing.Point(134, 237);
             this.password.Name = "password";
-            this.password.Size = new System.Drawing.Size(116, 20);
+            this.password.Size = new System.Drawing.Size(132, 25);
             this.password.TabIndex = 1;
             // 
             // label1
@@ -75,9 +77,10 @@
             // 
             // btnLogin
             // 
+            this.btnLogin.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.Location = new System.Drawing.Point(102, 278);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(90, 29);
+            this.btnLogin.Size = new System.Drawing.Size(109, 31);
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = true;

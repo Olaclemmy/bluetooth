@@ -42,9 +42,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(176, 237);
+            this.button1.Location = new System.Drawing.Point(176, 242);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(95, 31);
+            this.button1.Size = new System.Drawing.Size(116, 26);
             this.button1.TabIndex = 9;
             this.button1.Text = "Sign up";
             this.button1.UseVisualStyleBackColor = true;
@@ -72,16 +72,18 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(143, 107);
+            this.textBox2.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.Location = new System.Drawing.Point(143, 105);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(128, 20);
+            this.textBox2.Size = new System.Drawing.Size(149, 25);
             this.textBox2.TabIndex = 6;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(143, 41);
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(143, 38);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(128, 20);
+            this.textBox1.Size = new System.Drawing.Size(149, 25);
             this.textBox1.TabIndex = 5;
             // 
             // label3
@@ -96,9 +98,10 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(143, 172);
+            this.textBox3.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox3.Location = new System.Drawing.Point(143, 169);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(128, 20);
+            this.textBox3.Size = new System.Drawing.Size(149, 25);
             this.textBox3.TabIndex = 10;
             // 
             // radioButton1
